@@ -19,7 +19,10 @@ Conectores del estandar
 
 * SATA-IDE ![Conector SATA IDE](sata-power-connector.jpg)
 
-#### Modulares
+## SWITCH VOLTAJE
+![SWITCH](switch.jpeg)
+
+## Modulares
 Tienen los cables separados en latiquillos, para usar los necesarios y no dejar conectores o cables sun usar. Muy usados en casos estéticos
 
 ![Modular PSU](modular_power_supply.jpeg)
